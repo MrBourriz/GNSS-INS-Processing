@@ -15,4 +15,19 @@ In the data processing phase, serving as a crucial link between data preparation
 The notebook 'LC_INS_GNSS.ipynb' is a compilation of functions designed for achieving precise navigation by integrating INS and GNSS corrected data using the EKF. The initial function handles dual responsibilities: reading GNSS and Inertial Measurement Unit (IMU) data, ensuring time synchronization, and estimating gyroscope and accelerometer biases to refine sensor measurements. Recognizing the disparate frames of GNSS and IMU measurements, the second function ensures consistent transformation between coordinate systems, with a focus on the NED (North,East,Down) frame for terrestrial navigation. The core of the notebook lies in the third function, which implements EKF functionalities to update INS states using mechanization equations in the NED frame. Matrices like the state transition matrix 𝐹 and measurement matrix 𝐻 play pivotal roles, facilitating accurate state estimation by balancing predicted UAV states and new sensor measurements, accounting for uncertainties in process and measurement noise covariance matrices (𝑄 and 𝑅, respectively). This comprehensive approach continuously refines position, velocity, and attitude estimates throughout the navigation process.
 
 ![ekf_vs_kf](https://github.com/MrBourriz/GNSS-INS-Processing/assets/108701137/b89de74a-9f71-43c1-834b-7cf910b9e72e)
+### 4. Data Visualization
+The 'Visualization.ipynb' notebook employs Python libraries like [Folium](https://python-visualization.github.io/folium/latest/) with [geemap](https://geemap.org/) to plot the drone's flight path on a map using diverse basemaps. This spatial representation of the drone's trajectory ensures a clear and accessible presentation of results, facilitating an intuitive comprehension of the drone's spatial movements.
+
+https://github.com/MrBourriz/GNSS-INS-Processing/assets/108701137/beac5613-925a-4100-b691-5758a8d8d839
+
+## How to use
+
+## To Do
+
+## Acknowledgments
+
+
+
+
+
 
