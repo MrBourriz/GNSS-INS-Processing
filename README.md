@@ -32,7 +32,7 @@ For significant changes or bug reports, please initiate the process by opening a
 - [ ] Enhance the workflow by integrating algorithms for despiking and smoothing.     
 
 ## Acknowledgments
-
+This Research would not have been possible without the collaborative efforts and contributions from both the [HIF-EXPLO](https://github.com/hifexplo) & my supervisor from the department of Cartography and Photogrammetry at the School of Geomatics and Surveying Engineering in the Institute of Agronomy and Veterinary Medicine Hassan II (IAV). Their support has played a crucial role in the success of this project.
 
 ## References
 
@@ -40,7 +40,9 @@ For significant changes or bug reports, please initiate the process by opening a
 
 [2] RTKLIB ver. 2.4.2 Manual. https://www.rtklib.com/rtklib_document.htm
 
-[3] Towards Data Science. (n.d.). Kalman Filter Interview. Webpage. https://towardsdatascience.com/kalman-filter-interview-bdc39f3e6cf3
+[3] Kalman Filter Interview. Towards Data Science. https://towardsdatascience.com/kalman-filter-interview-bdc39f3e6cf3
 
 [4] Groves, P.D. Principles of GNSS, Inertial, and Multi Sensor Integrated Navigation Systems; Artech House: London, UK, (2013).
+
+[5] GDOP calculation for simple GPS positoning post-processing. GitHub page. https://github.com/FelipeTJ/gdoper/tree/main
 
