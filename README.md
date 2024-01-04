@@ -32,7 +32,7 @@ For significant changes or bug reports, please initiate the process by opening a
 - [ ] Enhance the workflow by integrating algorithms for despiking and smoothing.     
 
 ## Acknowledgments
-This Research would not have been possible without the collaborative efforts and contributions from both the [HIF-EXPLO](https://github.com/hifexplo) & my supervisor from the department of Cartography and Photogrammetry at the School of Geomatics and Surveying Engineering in the Institute of Agronomy and Veterinary Medicine Hassan II (IAV). Their support has played a crucial role in the success of this project.
+This Research would not have been possible without the collaborative efforts and contributions from both the [HIF-EXPLO](https://github.com/hifexplo) & [my supervisor](https://scholar.google.fr/citations?user=qbAXQGkAAAAJ&hl=fr) from the department of Cartography and Photogrammetry at the School of Geomatics and Surveying Engineering in the Institute of Agronomy and Veterinary Medicine Hassan II (IAV). Their support has played a crucial role in the success of this project.
 
 ## References
 
