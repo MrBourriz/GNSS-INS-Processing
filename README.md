@@ -23,9 +23,17 @@ https://github.com/MrBourriz/GNSS-INS-Processing/assets/108701137/beac5613-925a-
 ## Contributing
 Pull requests are always welcome!
 For significant changes or bug reports, please initiate the process by opening an issue, this allows us to collaboratively address the proposed modifications to improve this project. 
+
 ## To Do
+- [x] Develop an automated workflow to convert Trimble *.T04 proprietary format files to RINEX.
+- [x] Implement an automated workflow for PPK correction.
+- [x] Fuse GNSS and INS data by implementing a loosely coupled architecture.
+- [ ] Generalize the RINEX conversion process to accommodate various formats such as Topcon, Leica, etc.
+- [ ] Enhance the workflow by integrating algorithms for despiking and smoothing.     
 
 ## Acknowledgments
+
+## References
 
 
 
