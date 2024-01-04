@@ -33,7 +33,19 @@ For significant changes or bug reports, please initiate the process by opening a
 
 ## Acknowledgments
 
+
 ## References
+
+[1] Chen K, Chang G and Chen C. GINav: a MATLAB-based software for the data processing and analysis of a GNSS/INS integrated navigation system. GPS Solut 25, 108 (2021). https://doi.org/10.1007/s10291-021-01144-9
+
+[2] RTKLIB ver. 2.4.2 Manual. https://www.rtklib.com/rtklib_document.htm
+
+[3] Towards Data Science. (n.d.). Kalman Filter Interview. Webpage. https://towardsdatascience.com/kalman-filter-interview-bdc39f3e6cf3
+
+[4] Groves, P.D. Principles of GNSS, Inertial, and Multi Sensor Integrated Navigation Systems; Artech House: London, UK, (2013).
+
+
+
 
 
 
