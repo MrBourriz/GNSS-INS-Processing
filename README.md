@@ -44,11 +44,3 @@ For significant changes or bug reports, please initiate the process by opening a
 
 [4] Groves, P.D. Principles of GNSS, Inertial, and Multi Sensor Integrated Navigation Systems; Artech House: London, UK, (2013).
 
-
-
-
-
-
-
-
-
