@@ -20,8 +20,9 @@ The 'Visualization.ipynb' notebook employs Python libraries like [Folium](https:
 
 https://github.com/MrBourriz/GNSS-INS-Processing/assets/108701137/beac5613-925a-4100-b691-5758a8d8d839
 
-## How to use
-
+## Contributing
+Pull requests are always welcome!
+For significant changes or bug reports, please initiate the process by opening an issue, this allows us to collaboratively address the proposed modifications to improve this project. 
 ## To Do
 
 ## Acknowledgments
