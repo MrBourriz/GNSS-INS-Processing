@@ -1,0 +1,19 @@
+GLONASS hardware biases
+
+
+    0.004,  /* Ashtec (new) */
+    0.0001, /* Ashtec (old) */
+    0.023,    /* ComNav */
+    0.0001, /* Javad */
+    0.023,  /* Leica */
+    0.023,  /* Novatel */
+    -0.003,  /* Septentrio */
+    0.0001,    /* SwiftNav */
+    0.0001,    /* Tersus */
+    0.0001,    /* Topcon */
+    0.0001,    /* Spectra Physics */
+    -0.007, /* Trimble */
+    0.0,    /* u-blox M8N */
+    -0.032, /* u-blox M8T */
+    0.0001, /* u-blox F9 */
+	0.04     /* NVS  */
