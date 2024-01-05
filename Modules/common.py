@@ -4,7 +4,7 @@ import datetime as d
 import typing as t
 import os
 
-BASE_FOLDER = 'C:/Users/bourriz/GNSS-Correction-RTKLIB-master/UIS_PosPac_HyspexNav_processing/Result/' #Path u can change it
+BASE_FOLDER = 'C:/Users/bourriz/GNSS_INS_Processing/UIS_PosPac_HyspexNav_processing/Result/' #Path u can change it
 RINEX_FOLDER = BASE_FOLDER + 'Corrections_files'
 POS_DATA_FOLDER = BASE_FOLDER +'Position'
 # print(RINEX_FOLDER)
