@@ -29,7 +29,8 @@ For significant changes or bug reports, please initiate the process by opening a
 - [x] Implement an automated workflow for PPK correction.
 - [x] Fuse GNSS and INS data by implementing a loosely coupled architecture.
 - [ ] Generalize the RINEX conversion process to accommodate various formats such as Topcon, Leica, etc.
-- [ ] Enhance the workflow by integrating algorithms for despiking and smoothing.     
+- [ ] Enhance the workflow by integrating algorithms for despiking and smoothing.
+- [ ] Develop a Python package for GNSS/INS Processing.   
 
 ## Acknowledgments
 This Research would not have been possible without the collaborative efforts and contributions from both the [HIF-EXPLO](https://github.com/hifexplo) & [my supervisor](https://scholar.google.fr/citations?user=qbAXQGkAAAAJ&hl=fr) from the department of Cartography and Photogrammetry at the School of Geomatics and Surveying Engineering in the Institute of Agronomy and Veterinary Medicine Hassan II [(IAV)](https://iav.ac.ma/). Their support has played a crucial role in the success of this project.
