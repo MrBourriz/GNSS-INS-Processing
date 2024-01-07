@@ -47,3 +47,5 @@ This Research would not have been possible without the collaborative efforts and
 
 [5] GDOP calculation for simple GPS positoning post-processing. GitHub page. https://github.com/FelipeTJ/gdoper/tree/main
 
+## Contact
+For further details, please reach out to me via E-mail: mbouriz2000@gmail.com
