@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository for your research, please cite it as below."
+authors:
+  - family-names: BOURRIZ
+    given-names: Mohamed
+    orcid: https://orcid.org/0009-0001-9779-2926
+title: "Development of a holistic open-source processing pipeline for drone-based hyperspectral line scanning systems"
+identifiers:
+  - type: doi
+    value: 10.6084/m9.figshare.25024271.v1
+date-released: 2024-01-18
