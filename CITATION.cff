@@ -1,7 +1,10 @@
-@misc{Bourriz:2024:GNSS/INS Processing,
-  author = {Bourriz, Mohamed},
-  title = {Development of a holistic open-source processing pipeline for drone-based hyperspectral line scanning systems},
-  year = {2024},
-  howpublished = {GitHub Repository},
-  url = {https://github.com/MrBourriz/GNSS-INS-Processing}
-}
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it as below."
+authors:
+- family-names: "Bourriz"
+  given-names: "Mohamed"
+  orcid: "https://orcid.org/0009-0001-9779-2926"
+title: "Development of a holistic open-source processing pipeline for drone-based hyperspectral line scanning systems"
+doi: 10.6084/m9.figshare.25024271.v1
+date-released: 2024-01-18
+url: "https://github.com/MrBourriz/GNSS-INS-Processing"
